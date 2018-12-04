@@ -1,4 +1,4 @@
-package com.rentaladda.authentication;
+package com.eureka.auth.security;
 
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Controller;

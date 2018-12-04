@@ -1,4 +1,4 @@
-package com.rentaladda.authentication;
+package com.eureka.auth.security;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

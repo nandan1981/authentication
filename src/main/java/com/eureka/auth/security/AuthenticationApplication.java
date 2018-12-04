@@ -1,11 +1,11 @@
-package com.rentaladda.authentication;
+package com.eureka.auth.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 
 @SpringBootApplication
-@EntityScan("com.rentaladda.*")
+@EntityScan("com.eureka.auth.*")
 public class AuthenticationApplication {
 
     public static void main(String[] args) {
